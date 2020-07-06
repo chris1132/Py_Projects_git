@@ -1,0 +1,6 @@
+
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_USER=root
+MYSQL_PASS="wch1132"
+MYSQL_DB=chris_wang

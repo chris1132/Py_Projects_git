@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,
+    "province":"A",
+    "people":8.5,
+    "land":70,
+    "car":8.5
+  },
+  {
+    "id":2,
+    "province":"B",
+    "people":11,
+    "land":75,
+    "car":11
+  },
+  {
+    "id":3,
+    "province":"C",
+    "people":13.5,
+    "land":80,
+    "car":13.5
+  },
+  {
+    "id":4,
+    "province":"D",
+    "people":16.5,
+    "land":85,
+    "car":16.5
+  },
+  {
+    "id":5,
+    "province":"E",
+    "people":18.5,
+    "land":90,
+    "car":18.5
+  }
+]
